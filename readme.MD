@@ -4,8 +4,8 @@
 
 ## Features
 
-    - **Generate Otp**: Generates otp for any length of digit.
-    - **Verify Otp**: It verifys the otp.
+- **Generate Otp**: Generates otp for any length of digit.
+- **Verify Otp**: It verifys the otp.
 
 ## Installation 
 
